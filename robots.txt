@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rohan-mistry-absurd.github.io/sitemap.xml
